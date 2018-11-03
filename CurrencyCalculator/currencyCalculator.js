@@ -167,7 +167,7 @@ function calculateCurrency(){
         
         
     default:
-       // code block
+    
 }
        
         
@@ -231,9 +231,8 @@ function clearButton () {
         *************************************************************************************************************/            
                 
         //This code resets the dropdown menu to "Australian Dollar (AUD)".
-        document.getElementById("country").value = "0";
-       
-        
+        document.getElementById("country").innerHTML = "0";
+        // wont commit so must add lines
         
         
         //Remove the text from the textfield
