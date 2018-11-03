@@ -13,7 +13,7 @@ Web Application Development
 (This assignment converts the value of USD to other currencies. It is important to note that this data is set from Oct.23rd, 2018. Fun fact October 23rd is also Fallout Day.)
 
 ### View Project:
-(https://github.com/Pattrier/lesson5_javascript_2/tree/master/CurrencyCalculator)
+( https://pattrier.github.io/lesson5_javascript_2/.)
 
 ### Lessons Learned in the Assignment:
 1. (In this lesson we went indepth on switch statements. Switch statemetns are a type of selection control mechanism use to control the flow of data. )
