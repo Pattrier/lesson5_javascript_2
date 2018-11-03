@@ -231,7 +231,8 @@ function clearButton () {
         *************************************************************************************************************/            
                 
         //This code resets the dropdown menu to "Australian Dollar (AUD)".
-        //Whoops, 
+        var country = document.getElementById("country").value;
+        country = "0";
         
         
         
