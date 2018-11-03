@@ -17,7 +17,7 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson we went indepth on switch statements. Switch statemetns are a type of selection control mechanism use to control the flow of data. )
+2. (In this lesson we went more indepth about if and else statements.If and else statements use boolean conditions to help control the flow of data. )
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
